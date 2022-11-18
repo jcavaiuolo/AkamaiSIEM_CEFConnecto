@@ -1,0 +1,9 @@
+accessToken=akab-qxcpf2dex642-tjfcc1dvtx3fqulyeo7
+clientToken=akab-cffa2gcryx3agqip-uefe6gqkokyeooxb
+clientSecret=EneQRTBD56/D6pYNVNGfNe5678jvRW3NAZrtOysSsc8=
+host=akab-w34rogxcvxv2nsfrhxp-wfs5nvizxczc5lj.cloudsecurity.akamaiapis.net
+configIds=7245
+from=1499695200
+to=1499706000
+requestPollTime=
+limit=
